@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ProSoft": {
+        "commandName": "Project",
+        "hotReloadEnabled": false,
+        "nativeDebugging": true,
+        "sqlDebugging": true,
+        "launchBrowser": false,
+        "jsWebView2Debugging": false
+    }
+  }
+}
